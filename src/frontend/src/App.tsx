@@ -662,13 +662,13 @@ function ContactSection() {
                     WhatsApp
                   </p>
                   <a
-                    href="https://wa.me/1234567890"
+                    href="https://wa.me/918160807962"
                     target="_blank"
                     rel="noopener noreferrer"
                     data-ocid="contact.whatsapp.button"
                     className="font-body text-sm font-medium text-primary hover:underline"
                   >
-                    +1 (234) 567-890
+                    +91 81608 07962
                   </a>
                 </div>
               </div>
@@ -689,7 +689,7 @@ function ContactSection() {
 
             {/* WhatsApp CTA button */}
             <a
-              href="https://wa.me/1234567890"
+              href="https://wa.me/918160807962"
               target="_blank"
               rel="noopener noreferrer"
               data-ocid="contact.whatsapp.button"
